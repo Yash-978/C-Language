@@ -1,5 +1,6 @@
 //WAP to convert given string in lowercase.
 #include<stdio.h>
+
 main()
 {
 	int j,i;
@@ -19,7 +20,6 @@ main()
 		}
 	}
 	printf("%s",upp);
-	
 	
 	
 	
